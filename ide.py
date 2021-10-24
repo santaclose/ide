@@ -1,7 +1,7 @@
 import re
 import ast
 import json
-import futils
+from futils import futils
 import subprocess
 
 def getFunctions(language, filePath):

@@ -1,0 +1,3 @@
+[submodule "futils"]
+	path = futils
+	url = git@github.com:santaclose/futils.git
